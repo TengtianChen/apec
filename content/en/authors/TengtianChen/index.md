@@ -71,4 +71,4 @@ user_groups:
   - Undergraduate Student
 ---
 
-Tengtian Chen is.....
+I am developing a robot based on the STM32 that can simulate the thermoregulation of reptiles. Of interest to me are both amphibians, reptiles, and mammals.
